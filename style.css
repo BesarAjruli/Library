@@ -1,0 +1,15 @@
+body, html{margin: 0;}
+
+form{
+display: none;
+}
+
+.bookContainer{
+    display: flex;
+    flex-direction: column;
+}
+#libraryContainer{
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    padding: 30px 70px;
+}
