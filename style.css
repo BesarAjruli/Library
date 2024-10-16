@@ -1,15 +1,18 @@
-body, html{margin: 0;}
-
-form{
-display: none;
+body,
+html {
+  margin: 0;
 }
 
-.bookContainer{
-    display: flex;
-    flex-direction: column;
+form {
+  display: none;
 }
-#libraryContainer{
-    display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    padding: 30px 70px;
+
+.bookContainer {
+  display: flex;
+  flex-direction: column;
+}
+#libraryContainer {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  padding: 30px 70px;
 }
