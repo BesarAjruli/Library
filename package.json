@@ -1,0 +1,23 @@
+{
+  "name": "library",
+  "version": "1.0.0",
+  "description": "a package for library rject",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BesarAjruli/Library.git#main"
+  },
+  "keywords": [
+    "library",
+    "books"
+  ],
+  "author": "Besar Ajruli/Aquila Ltd",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BesarAjruli/Library/issues"
+  },
+  "homepage": "https://github.com/BesarAjruli/Library/tree/main#readme"
+}
